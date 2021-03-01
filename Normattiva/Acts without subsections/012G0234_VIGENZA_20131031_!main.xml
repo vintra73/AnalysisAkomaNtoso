@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:eli="http://data.europa.eu/eli/ontology#" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:gu="http://www.gazzettaufficiale.it/eli/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:na="http://www.normattiva.it/eli/" xmlns:nakn="http://normattiva.it/akn/vocabulary" xmlns:nrdfa="http://www.normattiva.it/rdfa/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfa="http://www.w3.org/1999/xhtml#">
+    <act name="monovigente">
+        <meta>
+            <identification source="">
+                <FRBRWork>
+                    <FRBRthis value="/akn/it/act/decreto-legge/stato/2012-12-03/207/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto-legge/stato/2012-12-03/207"/>
+                    <FRBRalias name="urn:nir" value="urn:nir:stato:decreto.legge:2012-12-03;207"/>
+                    <FRBRalias name="eli" value="eli/id/2012/12/03/012G0234/CONSOLIDATED/20131031"/>
+                    <FRBRdate date="2012-12-03" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031" aknrelname="eli/id/2012/12/03/012G0234/CONSOLIDATED/20131031">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalResource"/>
+                            <nrdfa:span content="Disposizioni urgenti a tutela della salute, dell'ambiente e dei livelli di occupazione, in caso di crisi di stabilimenti industriali di interesse strategico nazionale. (12G0234)  " lang="it" property="eli:title" xml:lang="it"/>
+                            <nrdfa:span content="http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}" property="eli:uri_schema"/>
+                            <nrdfa:span content="012G0234" property="eli:id_local"/>
+                            <nrdfa:span property="eli:type_document" resource="gu:tables/resource-type#DECRETO-LEGGE"/>
+                            <nrdfa:span content="2012-12-03" datatype="xsd:date" property="eli:date_document"/>
+                            <nrdfa:span property="eli:version" resource="gu:tables/versions#ORIGINAL"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRcountry value="it"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/it/act/decreto-legge/stato/2012-12-03/207/ita@2013-10-31/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto-legge/stato/2012-12-03/207/ita@2013-10-31"/>
+                    <FRBRdate date="2013-10-31" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031/ita">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalExpression"/>
+                            <nrdfa:span property="eli:realizes" resource="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031"/>
+                            <nrdfa:span property="eli:is_embodied_by" resource="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031/ita/akn"/>
+                            <nrdfa:span property="eli:language" resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                            <nrdfa:span property="eli:publisher_agent" resource="http://www.ipzs.it"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRlanguage language="ita"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/it/act/decreto-legge/stato/2012-12-03/207/ita@2013-10-31/!main.xml"/>
+                    <FRBRuri value="/akn/it/act/decreto-legge/stato/2012-12-03/207/ita@2013-10-31.xml"/>
+                    <FRBRdate date="2012-12-03" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031/ita/akn">
+                            <nrdfa:span property="rdf:type" resource="eli:Format"/>
+                            <nrdfa:span property="eli:format" resource="http://www.iana.org/assignments/media-types/xml"/>
+                        </nrdfa:eli>
+                    </preservation>
+                </FRBRManifestation>
+            </identification>
+            <publication date="2012-12-03" name="" number="282" showAs=""/>
+            <lifecycle source="">
+                <eventRef date="2012-12-03" eId="eventRef_0" source="ro1"/>
+                <eventRef date="2013-01-03" eId="eventRef_1" source="rp1"/>
+                <eventRef date="2013-06-04" eId="eventRef_2" source="rp2"/>
+                <eventRef date="2013-08-31" eId="eventRef_3" source="rp3"/>
+            </lifecycle>
+            <analysis source="">
+                <passiveModifications>
+                    <textualMod eId="pmod_0" type="insertion">
+                        <source href="#"/>
+                        <destination href="#art_1__ins_1"/>
+                        <new>
+                            <nakn:text>((, escluso il pagamento in misura ridotta, da euro 50.000))</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="pmod_1" type="insertion">
+                        <source href="#"/>
+                        <destination href="#art_1__ins_2"/>
+                        <new>
+                            <nakn:text>((Le attivita' di accertamento, contestazione e notificazione delle violazioni sono svolte dall'IS.P.R.A. Agli ispettori dell'ISPRA, nello svolgimento di tali attivita', e' attribuita la qualifica di ufficiale di polizia giudiziaria. I proventi delle sanzioni irrogate sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnati al pertinente capitolo dello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare per il finanziamento degli interventi di messa in sicurezza, bonifica e risanamento ambientale del territorio interessato))</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="pmod_2" type="insertion">
+                        <source href="#"/>
+                        <destination href="#art_1-bis__ins_1"/>
+                        <new>
+                            <nakn:text>(( (Valutazione del danno sanitario). ))</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="pmod_3" type="insertion">
+                        <source href="#"/>
+                        <destination href="#art_1-bis__ins_2"/>
+                        <new>
+                            <nakn:text>((1. In tutte le aree interessate dagli stabilimenti di cui al comma 1 dell'articolo 1 e al comma 1 dell'articolo 3, l'azienda sanitaria locale e l'Agenzia regionale per la protezione dell'ambiente competenti per territorio redigono congiuntamente, con aggiornamento almeno annuale, un rapporto di valutazione del danno sanitario (VDS) anche sulla base del registro tumori regionale e delle mappe epidemiologiche sulle principali malattie di carattere ambientale. 
+ 2. Con decreto del Ministro della salute, adottato di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, da emanare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono stabiliti i criteri metodologici utili per la redazione del rapporto di VDS. 
+ 3. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono alle attivita' di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente))</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="pmod_4" type="insertion">
+                        <source href="#"/>
+                        <destination href="#art_3__ins_1"/>
+                        <new>
+                            <nakn:text>((3))</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="pmod_5" type="insertion">
+                        <source href="#"/>
+                        <destination href="#art_3-bis__ins_1"/>
+                        <new>
+                            <nakn:text>(( (Piano sanitario straordinario in favore del territorio della provincia di Taranto). ))</nakn:text>
+                        </new>
+                    </textualMod>
+                    <textualMod eId="pmod_6" type="insertion">
+                        <source href="#"/>
+                        <destination href="#art_3-bis__ins_2"/>
+                        <new>
+                            <nakn:text>((1. Al fine di contrastare le criticita' sanitarie riscontrate in base alle evidenze epidemiologiche nel territorio della provincia di Taranto, per il triennio 2013-2015, e' sospesa, nel limite di spesa di 10 milioni di euro annui, con riferimento all'azienda sanitaria locale di Taranto, l'applicazione: 
+ a) delle disposizioni relative alla limitazione del turn-over e al rispetto del vincolo di cui all'articolo 2, comma 71, della legge 23 dicembre 2009, n. 191, e alla limitazione di cui all'articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, e successive modificazioni; 
+ b) delle disposizioni limitative dei posti letto, di cui al Piano di rientro e di riqualificazione del Sistema sanitario regionale 2010-2012, sottoscritto dalla regione Puglia; 
+ c) delle disposizioni limitative degli accordi contrattuali con le strutture accreditate di cui al Piano di rientro e di riqualificazione del Sistema sanitario regionale 2010-2012, sottoscritto dalla regione Puglia. 
+ 2. Le disposizioni previste dal comma 1 hanno attuazione anche nel caso in cui si applichi alla regione Puglia, dal 2013, l'articolo 15, comma 20, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135. 
+ 3. All'onere derivante dal presente articolo, nel limite di 10 milioni di euro per ciascuno degli anni 2013, 2014 e 2015, si provvede mediante specifico vincolo a valere sulle risorse finalizzate all'attuazione dell'articolo 1, comma 34, della legge 23 dicembre 1996, n. 662, per il triennio 2013-2015))</nakn:text>
+                        </new>
+                    </textualMod>
+                </passiveModifications>
+            </analysis>
+            <references source="">
+                <original eId="ro1" href="/akn/it/act/DECRETO-LEGGE/stato/2012-12-03/207/!main" showAs=""/>
+                <passiveRef eId="rp1" href="/akn/it/act/LEGGE/stato/2012-12-24/231/!main" showAs=""/>
+                <passiveRef eId="rp2" href="/akn/it/act/DECRETO-LEGGE/stato/2013-06-04/61/!main" showAs=""/>
+                <passiveRef eId="rp3" href="/akn/it/act/DECRETO-LEGGE/stato/2013-08-31/101/!main" showAs=""/>
+            </references>
+            <proprietary source="">
+                <rdf:RDF>
+                    <rdf:Description rdf:about="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031">
+                        <rdf:type rdf:resource="eli:LegalResource"/>
+                        <eli:title xml:lang="it">Disposizioni urgenti a tutela della salute, dell'ambiente e dei livelli di occupazione, in caso di crisi di stabilimenti industriali di interesse strategico nazionale. (12G0234)  </eli:title>
+                        <eli:uri_schema>http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}</eli:uri_schema>
+                        <eli:id_local>012G0234</eli:id_local>
+                        <eli:type_document rdf:resource="gu:tables/resource-type#DECRETO-LEGGE"/>
+                        <eli:date_document rdf:datatype="xsd:date">2012-12-03</eli:date_document>
+                        <eli:version rdf:resource="gu:tables/versions#ORIGINAL"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031/ita">
+                        <rdf:type rdf:resource="eli:LegalExpression"/>
+                        <eli:realizes rdf:resource="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031"/>
+                        <eli:is_embodied_by rdf:resource="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031/ita/akn"/>
+                        <eli:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                        <eli:publisher_agent rdf:resource="http://www.ipzs.it"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/2012/12/03/012G0234/CONSOLIDATED/20131031/ita/akn">
+                        <rdf:type rdf:resource="eli:Format"/>
+                        <eli:format rdf:resource="http://www.iana.org/assignments/media-types/xml"/>
+                    </rdf:Description>
+                </rdf:RDF>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docType>DECRETO-LEGGE</docType>
+                <docDate date="2012-12-03">03 dicembre 2012</docDate>
+                <docNumber>207</docNumber>
+                <docTitle>Disposizioni urgenti a tutela della salute, dell'ambiente e dei livelli di occupazione, in caso di crisi di stabilimenti industriali di interesse strategico nazionale. (12G0234) 
+</docTitle>
+            </p>
+            <p>
+                <authorialNote eId="atn1" placement="bottom">
+                    <p>Entrata in vigore del provvedimento: 03/12/2012.Decreto-Legge convertito con modificazioni dalla L. 24 dicembre 2012, n. 231 (in G.U. 03/01/2013, n. 2).</p>
+                </authorialNote>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="formulaInizialePreambolo">
+                <p>IL PRESIDENTE DELLA REPUBBLICA</p>
+            </formula>
+            <citations eId="cits_1">
+                <citation eId="cits_1__cit_1">
+                    <p> Visti gli <ref eId="ref_1" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_41">articoli 41</ref>, <ref eId="ref_2" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_43">43</ref>, <ref eId="ref_3" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_77">77</ref> e <ref eId="ref_4" href="/akn/it/act/costituzione/stato/1947-12-27/const/!main#art_87">87 della Costituzione</ref>; </p>
+                </citation>
+            </citations>
+            <citations eId="cits_2">
+                <citation eId="cits_2__cit_1">
+                    <p> Visto il <ref eId="ref_5" href="/akn/it/act/decretoLegge/stato/2012-08-07/129/!main">decreto-legge 7 agosto 2012, n. 129</ref>, convertito dalla <ref eId="ref_6" href="/akn/it/act/legge/stato/2012-10-04/171/!main">legge 4 ottobre 2012, n. 171</ref>, e il Protocollo d'Intesa del 26 luglio 2012 per interventi urgenti di bonifica, ambientalizzazione e riqualificazione di Taranto sottoscritto a Roma; </p>
+                </citation>
+            </citations>
+            <citations eId="cits_3">
+                <citation eId="cits_3__cit_1">
+                    <p> Visto il decreto del Ministro dell'ambiente e della tutela del territorio e del mare in data 26 ottobre 2012, prot. </p>
+                </citation>
+            </citations>
+            <p> DVA/DEC/2012/0000547, di cui alla comunicazione pubblicata nella Gazzetta Ufficiale n. 252 del 27 ottobre 2012, con il quale si e' provveduto al riesame dell'autorizzazione integrata ambientale n. DVA/DEC/2011/450 del 4 agosto 2011, rilasciata alla Societa' ILVA S.p.A. per l'esercizio dello stabilimento siderurgico ubicato nei comuni di Taranto e di Statte, disponendo, ai fini della piu' rigorosa protezione della salute e dell'ambiente, l'applicazione in anticipo della decisione di esecuzione n. 2012/135/UE della Commissione, del 28 febbraio 2012, che stabilisce le conclusioni sulle migliori tecniche disponibili (BAT) da impiegare per la produzione di ferro e acciaio ai sensi della <ref eId="ref_7" href="/akn/it/act/direttivaUe/eu/2010/75/!main">direttiva 2010/75/UE</ref>; </p>
+            <recitals eId="recs_1">
+                <recital eId="recs_1__rec_1">
+                    <p> Considerato che l'autorizzazione integrata ambientale e il Piano operativo assicurano l'immediata esecuzione di misure finalizzate alla tutela della salute ed alla protezione ambientale e prevedono graduali ulteriori interventi sulla base di un ordine di priorita' finalizzato al risanamento progressivo degli impianti; </p>
+                </recital>
+            </recitals>
+            <p> Ritenuta la straordinaria necessita' e urgenza di emanare disposizioni per assicurare che, in presenza di stabilimenti industriali di interesse strategico nazionale, qualora vi sia una assoluta necessita' di salvaguardia dell'occupazione e della produzione, il Ministro dell'ambiente possa autorizzare mediante autorizzazione integrata ambientale la prosecuzione dell'attivita' produttiva di uno o piu' stabilimenti per un periodo di tempo determinato non superiore a 36 mesi e a condizione che vengano adempiute le prescrizioni contenute nella medesima autorizzazione, secondo le procedure e i termini ivi indicati, al fine di assicurare la piu' adeguata tutela dell'ambiente e della salute secondo le migliori tecniche disponibili; </p>
+            <p> Ritenuta altresi' la straordinaria necessita' e urgenza di emanare disposizioni per assicurare la piena attuazione delle prescrizioni della sopracitata autorizzazione, volte alla immediata rimozione delle condizioni di criticita' esistenti che possono incidere sulla salute, conseguendo il sostanziale abbattimento delle emissioni inquinanti; </p>
+            <recitals eId="recs_2">
+                <recital eId="recs_2__rec_1">
+                    <p> Considerato che la continuita' del funzionamento produttivo dello stabilimento siderurgico Ilva S.p.A. costituisce una priorita' strategica di interesse nazionale, in considerazione dei prevalenti profili di protezione dell'ambiente e della salute, di ordine pubblico, di salvaguardia dei livelli occupazionali; </p>
+                </recital>
+            </recitals>
+            <citations eId="cits_4">
+                <citation eId="cits_4__cit_1">
+                    <p> Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 novembre 2012; </p>
+                </citation>
+            </citations>
+            <p> Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico; </p>
+            <formula name="formulaFinalePreambolo">
+                <p>Emana il seguente decreto-legge:</p>
+            </formula>
+        </preamble>
+        <body>
+            <article eId="art_1">
+                <num>Art. 1.</num>
+                <heading>Efficacia dell'autorizzazione integrata ambientale in caso di crisi di stabilimenti industriali di interesse strategico nazionale</heading>
+                <paragraph>
+                    <content>
+                        <p> 1. In caso di stabilimento di interesse strategico nazionale, individuato con decreto del Presidente del Consiglio dei Ministri, quando presso di esso sono occupati un numero di lavoratori subordinati, compresi quelli ammessi al trattamento di integrazione dei guadagni, non inferiore a duecento da almeno un anno, qualora vi sia una assoluta necessita' di salvaguardia dell'occupazione e della produzione, il Ministro dell'ambiente e della tutela del territorio e del mare puo' autorizzare, in sede di riesame dell'autorizzazione integrata ambientale, la prosecuzione dell'attivita' produttiva per un periodo di tempo determinato non superiore a 36 mesi ed a condizione che vengano adempiute le prescrizioni contenute nel provvedimento di riesame della medesima autorizzazione, secondo le procedure ed i termini ivi indicati, al fine di assicurare la piu' adeguata tutela dell'ambiente e della salute secondo le migliori tecniche disponibili. 
+ 2. Nei casi di cui al comma 1, le misure volte ad assicurare la prosecuzione dell'attivita' produttiva sono esclusivamente e ad ogni effetto quelle contenute nel provvedimento di autorizzazione integrata ambientale, nonche' le prescrizioni contenute nel provvedimento di riesame. E' fatta comunque salva l'applicazione degli articoli 29-octies, comma 4, e 29-nonies e 29-decies del <ref eId="content__ref_8" href="/akn/it/act/decretoLegislativo/stato/2006-04-03/152/!main">decreto legislativo 3 aprile 2006, n.152</ref>, e successive modificazioni. 
+ 3. Fermo restando quanto previsto dagli articoli 29-decies e 29-quattuordecies del <ref eId="content__ref_9" href="/akn/it/act/decretoLegislativo/stato/2006/152/!main">decreto legislativo n. 152 del 2006</ref> e dalle altre disposizioni di carattere sanzionatorio penali e amministrative contenute nelle normative di settore, la mancata osservanza delle prescrizioni contenute nel provvedimento di cui al comma 1 e' punita con sanzione amministrativa pecuniaria <ins eId="art_1__ins_1">((, escluso il pagamento in misura ridotta, da euro 50.000))</ins> fino al 10 per cento del fatturato della societa' risultante dall'ultimo bilancio approvato. La sanzione e' irrogata, ai sensi della <ref eId="content__ref_10" href="/akn/it/act/legge/stato/1981-11-24/689/!main">legge 24 novembre 1981, n. 689</ref>, dal prefetto competente per territorio. <ins eId="art_1__ins_2">((Le attivita' di accertamento, contestazione e notificazione delle violazioni sono svolte dall'IS.P.R.A. Agli ispettori dell'ISPRA, nello svolgimento di tali attivita', e' attribuita la qualifica di ufficiale di polizia giudiziaria. I proventi delle sanzioni irrogate sono versati ad apposito capitolo dell'entrata del bilancio dello Stato per essere riassegnati al pertinente capitolo dello stato di previsione del Ministero dell'ambiente e della tutela del territorio e del mare per il finanziamento degli interventi di messa in sicurezza, bonifica e risanamento ambientale del territorio interessato))</ins>. 
+ 4. Le disposizioni di cui al comma 1 trovano applicazione anche quando l'autorita' giudiziaria abbia adottato provvedimenti di sequestro sui beni dell'impresa titolare dello stabilimento. In tale caso i provvedimenti di sequestro non impediscono, nel corso del periodo di tempo indicato nell'autorizzazione, l'esercizio dell'attivita' d'impresa a norma del comma 1. 
+ 5. Il Ministro dell'ambiente e della tutela del territorio e del mare riferisce semestralmente al Parlamento circa l'ottemperanza delle prescrizioni contenute nel provvedimento di riesame dell'autorizzazione integrata ambientale nei casi di cui al presente articolo. 
+ 5-bis. Il Ministro della salute riferisce annualmente alle competenti Commissioni parlamentari sul documento di valutazione del danno sanitario, sullo stato di salute della popolazione coinvolta, sulle misure di cura e prevenzione messe in atto e sui loro benefici. </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_1-bis">
+                <num>Art. 1 bis.</num>
+                <heading>Valutazione del danno sanitario.</heading>
+                <paragraph>
+                    <content>
+                        <p> Art. 1-bis. 
+ <ins eId="art_1-bis__ins_1">(( (Valutazione del danno sanitario). ))</ins> 
+ 
+ <ins eId="art_1-bis__ins_2">((1. In tutte le aree interessate dagli stabilimenti di cui al comma 1 dell'articolo 1 e al comma 1 dell'articolo 3, l'azienda sanitaria locale e l'Agenzia regionale per la protezione dell'ambiente competenti per territorio redigono congiuntamente, con aggiornamento almeno annuale, un rapporto di valutazione del danno sanitario (VDS) anche sulla base del registro tumori regionale e delle mappe epidemiologiche sulle principali malattie di carattere ambientale. 
+ 2. Con decreto del Ministro della salute, adottato di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, da emanare entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, sono stabiliti i criteri metodologici utili per la redazione del rapporto di VDS. 
+ 3. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le amministrazioni interessate provvedono alle attivita' di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente))</ins>. </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_2">
+                <num>Art. 2.</num>
+                <heading>Responsabilità nella conduzione degli impianti</heading>
+                <paragraph>
+                    <content>
+                        <p> Responsabilita' nella conduzione degli impianti 
+ 
+ 1. Nei limiti consentiti dal presente decreto, rimane in capo ai titolari dell'autorizzazione integrata ambientale di cui all'articolo 1, comma 1, la gestione e la responsabilita' della conduzione degli impianti di interesse strategico nazionale anche ai fini dell'osservanza di ogni obbligo, di legge o disposto in via amministrativa, e ferma restando l'attivita' di controllo dell'autorita' di cui all'<ref eId="content__ref_11" href="/akn/it/act/decretoLegislativo/stato/2006-04-03/152/!main#art_29decies-com3">articolo 29-decies, comma 3, del decreto legislativo 3 aprile 2006, n.152</ref>, e successive modificazioni. </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_3">
+                <num>Art. 3.</num>
+                <heading>Efficacia dell'autorizzazione integrata ambientale rilasciata in data 26 ottobre 2012 alla società ILVA S.p.A. Controlli e garanzie</heading>
+                <paragraph>
+                    <content>
+                        <p> Efficacia dell'autorizzazione integrata ambientale rilasciata in data 26 ottobre 2012 alla societa' ILVA S.p.A. Controlli e garanzie 
+ 
+ 1. Gli impianti siderurgici della societa' ILVA s.p.a. costituiscono stabilimenti di interesse strategico nazionale a norma dell'articolo 1. 
+ 1-bis. Entro centottanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Governo adotta una strategia industriale per la filiera produttiva dell'acciaio. 
+ 2. L'autorizzazione integrata ambientale rilasciata in data 26 ottobre 2012 alla societa' ILVA S.p.A. con decreto del Ministro dell'ambiente e della tutela del territorio e del mare prot. n. DVA/DEC/2012/0000547, nella versione di cui al comunicato pubblicato nella Gazzetta Ufficiale n. 252 del 27 ottobre 2012, contiene le prescrizioni volte ad assicurare la prosecuzione dell'attivita' produttiva dello stabilimento siderurgico della societa' ILVA S.p.A. di Taranto a norma dell'articolo 1. 
+ 3. A decorrere dalla data di entrata in vigore del presente decreto, per un periodo di trentasei mesi, la societa' ILVA S.p.A. di Taranto e' immessa nel possesso dei beni dell'impresa ed e' in ogni caso autorizzata, nei limiti consentiti dal provvedimento di cui al comma 2, alla prosecuzione dell'attivita' produttiva nello stabilimento e alla commercializzazione dei prodotti, ivi compresi quelli realizzati antecedentemente alla data di entrata in vigore del presente decreto, ferma restando l'applicazione di tutte le disposizioni contenute nel medesimo decreto. <ins eId="art_3__ins_1">((3))</ins> 
+ 4. COMMA ABROGATO DAL <ref eId="content__ref_12" href="/akn/it/act/decretoLegge/stato/2013-06-04/61/!main">D.L. 4 GIUGNO 2013, N. 61</ref>, CONVERTITO CON MODIFICAZIONI DALLA <ref eId="content__ref_13" href="/akn/it/act/legge/stato/2013-08-03/89/!main">L. 3 AGOSTO 2013, N. 89</ref>. (2) 
+ 5. COMMA ABROGATO DAL <ref eId="content__ref_14" href="/akn/it/act/decretoLegge/stato/2013-06-04/61/!main">D.L. 4 GIUGNO 2013, N. 61</ref>, CONVERTITO CON MODIFICAZIONI DALLA <ref eId="content__ref_15" href="/akn/it/act/legge/stato/2013-08-03/89/!main">L. 3 AGOSTO 2013, N. 89</ref>. (2) 
+ 6. COMMA ABROGATO DAL <ref eId="content__ref_16" href="/akn/it/act/decretoLegge/stato/2013-06-04/61/!main">D.L. 4 GIUGNO 2013, N. 61</ref>, CONVERTITO CON MODIFICAZIONI DALLA <ref eId="content__ref_17" href="/akn/it/act/legge/stato/2013-08-03/89/!main">L. 3 AGOSTO 2013, N. 89</ref>. (2) 
+ 
+------------- 
+AGGIORNAMENTO (2) 
+ Il <ref eId="content__ref_18" href="/akn/it/act/decretoLegge/stato/2013-06-04/61/!main">D.L. 4 giugno 2013, n. 61</ref>, convertito con modificazioni dalla <ref eId="content__ref_19" href="/akn/it/act/legge/stato/2013-08-03/89/!main">L. 3 agosto 2013, n. 89</ref>, ha disposto (con l'art. 2-quater, comma 1) che "I <ref eId="content__ref_20" href="/akn/it/act/decretoLegge/stato/2012-12-03/207/!main#art_3-com4">commi 4</ref>, <ref eId="content__ref_21" href="/akn/it/act/decretoLegge/stato/2012-12-03/207/!main#art_3-com5">5</ref> e <ref eId="content__ref_22" href="/akn/it/act/decretoLegge/stato/2012-12-03/207/!main#art_3-com6">6 dell'articolo 3 del decreto-legge 3 dicembre 2012, n. 207</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_23" href="/akn/it/act/legge/stato/2012-12-24/231/!main">legge 24 dicembre 2012, n. 231</ref>, sono abrogati. Il Garante ivi previsto cessa lo svolgimento delle sue funzioni dalla data di entrata in vigore della legge di conversione del presente decreto". 
+------------- 
+AGGIORNAMENTO (3) 
+ Il <ref eId="content__ref_24" href="/akn/it/act/decretoLegge/stato/2013-08-31/101/!main">D.L. 31 agosto 2013, n. 101</ref>, convertito con modificazioni dalla <ref eId="content__ref_25" href="/akn/it/act/legge/stato/2013-10-30/125/!main">L. 30 ottobre 2013, n. 125</ref>, ha disposto (con l'art. 12, comma 5-quater) che "L'<ref eId="content__ref_26" href="/akn/it/act/decretoLegge/stato/2012-12-03/207/!main#art_3-com3">articolo 3, comma 3, del decreto-legge 3 dicembre 2012, n. 207</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_27" href="/akn/it/act/legge/stato/2012-12-24/231/!main">legge 24 dicembre 2012, n. 231</ref>, si interpreta nel senso che per beni dell'impresa si devono intendere anche le partecipazioni dirette e indirette in altre imprese, nonche' i cespiti aziendali alle stesse facenti capo". </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_3-bis">
+                <num>Art. 3 bis.</num>
+                <heading>Piano sanitario straordinario in favore del territorio della
+ provincia di Taranto.</heading>
+                <paragraph>
+                    <content>
+                        <p> Art. 3-bis. 
+<ins eId="art_3-bis__ins_1">(( (Piano sanitario straordinario in favore del territorio della provincia di Taranto). ))</ins> 
+ 
+ <ins eId="art_3-bis__ins_2">((1. Al fine di contrastare le criticita' sanitarie riscontrate in base alle evidenze epidemiologiche nel territorio della provincia di Taranto, per il triennio 2013-2015, e' sospesa, nel limite di spesa di 10 milioni di euro annui, con riferimento all'azienda sanitaria locale di Taranto, l'applicazione: 
+ a) delle disposizioni relative alla limitazione del turn-over e al rispetto del vincolo di cui all'<ref eId="content__ref_28" href="/akn/it/act/legge/stato/2009-12-23/191/!main#art_2-com71">articolo 2, comma 71, della legge 23 dicembre 2009, n. 191</ref>, e alla limitazione di cui all'<ref eId="content__ref_29" href="/akn/it/act/decretoLegge/stato/2010-05-31/78/!main#art_9-com28">articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_30" href="/akn/it/act/legge/stato/2010-07-30/122/!main">legge 30 luglio 2010, n. 122</ref>, e successive modificazioni; 
+ b) delle disposizioni limitative dei posti letto, di cui al Piano di rientro e di riqualificazione del Sistema sanitario regionale 2010-2012, sottoscritto dalla regione Puglia; 
+ c) delle disposizioni limitative degli accordi contrattuali con le strutture accreditate di cui al Piano di rientro e di riqualificazione del Sistema sanitario regionale 2010-2012, sottoscritto dalla regione Puglia. 
+ 2. Le disposizioni previste dal comma 1 hanno attuazione anche nel caso in cui si applichi alla regione Puglia, dal 2013, l'<ref eId="content__ref_31" href="/akn/it/act/decretoLegge/stato/2012-07-06/95/!main#art_15-com20">articolo 15, comma 20, del decreto-legge 6 luglio 2012, n. 95</ref>, convertito, con modificazioni, dalla <ref eId="content__ref_32" href="/akn/it/act/legge/stato/2012-08-07/135/!main">legge 7 agosto 2012, n. 135</ref>. 
+ 3. All'onere derivante dal presente articolo, nel limite di 10 milioni di euro per ciascuno degli anni 2013, 2014 e 2015, si provvede mediante specifico vincolo a valere sulle risorse finalizzate all'attuazione dell'<ref eId="content__ref_33" href="/akn/it/act/legge/stato/1996-12-23/662/!main#art_1-com34">articolo 1, comma 34, della legge 23 dicembre 1996, n. 662</ref>, per il triennio 2013-2015))</ins>. </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_4">
+                <num>Art. 4.</num>
+                <heading>Copertura finanziaria</heading>
+                <paragraph>
+                    <content>
+                        <p> 1. Agli oneri derivanti dall'articolo 3, comma 5, pari a 200 mila euro, per ciascuno degli anni 2013, 2014 e 2015, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'<ref eId="content__ref_34" href="/akn/it/act/legge/stato/2005-12-23/266/!main#art_1-com432">articolo 1, comma 432, della legge 23 dicembre 2005, n. 266</ref>, nell'ambito della quota destinata alle azioni di sistema di cui alla delibera CIPE n. 8 del 20 gennaio 2012, pubblicata nella Gazzetta Ufficiale n. 121 del 25 maggio 2012. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare le occorrenti variazioni di bilancio. </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_5">
+                <num>Art. 5.</num>
+                <heading>Entrata in vigore</heading>
+                <paragraph>
+                    <content>
+                        <p> 1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge. 
+  </p>
+                    </content>
+                </paragraph>
+            </article>
+        </body>
+        <conclusions>
+            <formula name="formulaFinaleConclusioni">
+                <p>Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. </p>
+            </formula>
+            <p> Dato a Roma, addi' 3 dicembre 2012 </p>
+            <p>NAPOLITANO Monti, Presidente del Consiglio dei Ministri Clini, Ministro dell'ambiente e della tutela del territorio e del mare Passera, Ministro dello sviluppo economico Visto, il Guardasigilli: Severino</p>
+        </conclusions>
+    </act>
+</akomaNtoso>

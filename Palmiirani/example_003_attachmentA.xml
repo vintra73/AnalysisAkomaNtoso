@@ -1,0 +1,73 @@
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:cirsfid="http://www.cirsfid.unibo.it/norma/proprietario/">
+    <doc name="tabella">
+        <meta>
+            <identification source="#supremaCorteDiCassazione">
+                <FRBRWork>
+                    <FRBRthis value="/akn/it/act/legge/stato/1975-07-26/354!tabella_a"/>
+                    <FRBRuri value="/akn/it/act/legge/stato/1975-07-26/354"/>
+                    <FRBRalias value="urn:nir:stato:legge:1975-07-26;354:tabella.a" name="urn:nir"/>
+                    <FRBRdate name="Enactment" date="1975-07-26"/>
+                    <FRBRauthor href="#emanante" as="#author"/>
+                    <FRBRcountry value="it"/>
+                    <FRBRname value="tabella"/>
+                    <FRBRprescriptive value="true"/>
+                    <FRBRnumber value="354"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/it/act/legge/stato/1975-07-26/354/ita@!tabella_a"/>
+                    <FRBRuri value="/akn/it/act/legge/stato/1975-07-26/354/ita@"/>
+                    <FRBRdate date="1975-07-26" name=""/>
+                    <FRBRauthor href="#emanante" as="#author"/>
+                    <FRBRlanguage language="ita"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/it/act/legge/stato/1975-07-26/354/ita@/main.xml"/>
+                    <FRBRuri value="/akn/it/act/legge/stato/1975-07-26/354/ita@/main.xml"/>
+                    <FRBRdate name="XMLConversion" date="2016-02-05"/>
+                    <FRBRauthor href="#cirsfid"/>
+                    <preservation>
+                        <cirsfid:software value="Norma-Editor v2.7"/>
+                        <cirsfid:affiliation value="http://www.cirsfid.unibo.it"/>
+                    </preservation>
+                </FRBRManifestation>
+            </identification>
+            <publication showAs="Gazzetta Ufficiale" date="1975-08-09" name="GU" number="212 Suppl.Ord."/>
+            <classification source="#supremaCorteDiCassazione">
+                <keyword dictionary="#tesauroCassazione" showAs="ORDINAMENTO PENITENZIARIO" value="ORDINAMENTO PENITENZIARIO"/>
+                <keyword dictionary="#tesauroCassazione" showAs="CODICI" value="CODICI"/>
+                <keyword dictionary="#tesauroCassazione" showAs="CODICE PENALE" value="CODICE PENALE"/>
+                <keyword dictionary="#tesauroCassazione" showAs="CODICE PROCEDURA PENALE" value="CODICE PROCEDURA PENALE"/>
+            </classification>
+            <lifecycle source="#supremaCorteDiCassazione">
+                <eventRef eId="e1" source="#ro1" date="1975-08-24" type="generation"/>
+            </lifecycle>
+            <analysis source="#supremaCorteDiCassazione"/>
+            <references source="#supremaCorteDiCassazione">
+                <original eId="ro1" showAs="" href="/akn/it/act/legge/stato/1975-07-26/354!tabella_a"/>
+                <TLCOrganization eId="supremaCorteDiCassazione" href="/ontology/organizations/it/supremaCorteDiCassazione" showAs="Suprema Corte Di Cassazione"/>
+                <TLCOrganization eId="emanante" href="/ontology/organizations/it/Stato" showAs="stato"/>
+                <TLCOrganization eId="redazione" href="http://www.italgiure.giustizia.it" showAs="Cassazione"/>
+                <attachmentOf href="/akn/it/act/legge/stato/1975-07-26/354!main" showAs="Documento principale"/>
+                <TLCOrganization eId="cirsfid" href="http://www.cirsfid.unibo.it/" showAs="CIRSFID"/>
+            </references>
+            <proprietary source="supremaCorteDiCassazione">
+                <proprietario xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink" soggetto="TITOLO">
+                    <titoloA9>TABELLA A   - SEDI E GIURISDIZIONI DEGLI UFFICI DI SORVEGLIANZA</titoloA9>
+                </proprietario>
+            </proprietary>
+        </meta>
+        <preface eId="preface_1">
+            <p>
+                <docType>TABELLA</docType> A <eol/>
+                <docTitle eId="preface_1__docTitle_1">SEDI E GIURISDIZIONI DEGLI UFFICI DI SORVEGLIANZA</docTitle>
+            </p>
+        </preface>
+        <mainBody>
+            <container name="dispositivo">
+                <container name="cirsfid:dispositivo">
+                    <p>Ancona: tribunali di Ancona, Pesaro, Urbino. <eol/>Macerata: tribunali di Macerata, Ascoli Piceno, Camerino, Fermo. <eol/>Bari: tribunali di Bari,  Trani. <eol/>Foggia: tribunali di Foggia, Lucera. <eol/>Bologna: tribunali di Bologna, Ferrara, Forlì, Ravenna, Rimini. <eol/>Modena: tribunale di Modena. <eol/>Reggio Emilia: tribunali di Reggio Emilia, Parma, Piacenza. <eol/>Brescia: tribunali di Brescia, Bergamo, Crema. <eol/>Mantova: tribunali di Mantova,  Cremona. <eol/>Cagliari: tribunali di Cagliari, Oristano. <eol/>Nuoro: tribunali di Nuoro, Lanusei. <eol/>Sassari: tribunali di Sassari, Tempio Pausania. <eol/>Caltanissetta: tribunali di Caltanissetta, Enna, Nicosia. <eol/>Catania: tribunali di Catania, Caltagirone. <eol/>Siracusa: tribunali di Siracusa,  Ragusa, Modica. <eol/>Catanzaro: tribunali di Catanzaro, Crotone, Nicastro,  Vibo Valentia. <eol/>Cosenza: tribunali di Cosenza, Rossano, Castrovillari,  Paola. <eol/>Reggio Calabria: tribunali di Reggio Calabria, Locri, Palmi. <eol/>Firenze: tribunali di Firenze, Arezzo, Prato. <eol/>Siena:  tribunali di Siena, Grosseto, Montepulciano. <eol/>Livorno: tribunale di Livorno. <eol/>Pisa: tribunali di Pisa, Lucca, Pistoia. <eol/>Genova: tribunali di Genova,  Chiavari, Imperia, San Remo, Savona. <eol/>Apuania Massa: tribunali di Apuania Massa, La Spezia. <eol/>L'Aquila: tribunali di L'Aquila, Avezzano,  Lanciano, Sulmona. <eol/>Pescara: tribunali di Pescara, Chieti, Teramo, Vasto. <eol/>Lecce: tribunali di Lecce, Brindisi, Taranto. <eol/>Messina: tribunali di Messina, Mistretta, Patti. <eol/>Milano: tribunali di Milano, Lodi, Monza. <eol/>Pavia: tribunali di Pavia, Vigevano, Voghera. <eol/>Varese: tribunali di Varese, Busto Arsizio, Como, Lecco, Sondrio. <eol/>Napoli: tribunali di Napoli, Ariano Irpino, Avellino, Benevento. <eol/>Campobasso: tribunali di Campobasso, Isernia, Larino. <eol/>Salerno: tribunali di Salerno, Sant'angelo dei Lombardi, Vallo della Lucania. <eol/>Santa Maria Capua Vetere: tribunale di Santa Maria Capua Vetere. <eol/>Palermo: tribunali di Palermo, Termini Imerese. <eol/>Agrigento: tribunali di Agrigento, Sciacca. <eol/>Trapani: tribunali di Trapani, Marsala. <eol/>Perugia: tribunali di Perugia, Orvieto. <eol/>Spoleto: tribunali di Spoleto, Terni. <eol/>Potenza: tribunali di Potenza, Lagonegro, Sala Consilina. <eol/>Matera: tribunali di Matera, Melfi. <eol/>Roma: tribunali di Roma, Latina, Velletri, Civitavecchia. <eol/>Frosinone: tribunali di Frosinone, Cassino. <eol/>Viterbo: tribunali di Viterbo, Rieti. <eol/>Torino: tribunali di Torino, Asti, Pinerolo. <eol/>Alessandria: tribunali di Alessandria, Acqui, Tortona. <eol/>Novara: tribunali di Novara, Aosta, Biella, Verbania. <eol/>Vercelli: tribunali di Vercelli, Casale Monferrato, Ivrea. <eol/>Cuneo: tribunali di Cuneo,  Mondovì, Saluzzo, Alba. <eol/>Trento: tribunali di Trento, Bolzano, Rovereto. <eol/>Trieste: tribunale di Trieste. <eol/>Gorizia: tribunali di Gorizia,  Pordenone, Tolmezzo, Udine. <eol/>Venezia: tribunali di Venezia, Belluno,  Treviso. <eol/>Padova: tribunali di Padova, Rovigo, Bassano del Grappa. <eol/>Verona: tribunali di Verona, Vicenza.</p>
+                </container>
+            </container>
+        </mainBody>
+    </doc>
+</akomaNtoso>
