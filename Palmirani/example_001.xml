@@ -1,0 +1,628 @@
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+    <act name="act">
+        <meta>
+            <identification source="">
+                <FRBRWork>
+                    <FRBRthis value="/akn/it/act/decretolegislativo/2006-01-24/36/main"/>
+                    <FRBRuri value="/akn/it/act/decretolegislativo/2006-01-24/36/main"/>
+                    <FRBRalias value="urn:nir:decretolegislativo:2006-01-24;36" name="urn:uri"/>
+                    <FRBRdate date="2006-01-24" name=""/>
+                    <FRBRauthor href="#author" as="#author"/>
+                    <FRBRcountry value="it"/>
+                    <FRBRnumber value="36"/>
+                    <FRBRname value="DECRETO LEGISLATIVO 24 gennaio 2006, n. 36 (originale)"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/it/act/decretolegislativo/2006-01-24/36/ita@/main"/>
+                    <FRBRuri value="/akn/it/act/decretolegislativo/2006-01-24/36/ita@/main"/>
+                    <FRBRdate date="2006-01-24" name=""/>
+                    <FRBRauthor href="#limeEditor" as="#limeEditor"/>
+                    <FRBRlanguage language="ita"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/it/act/decretolegislativo/2006-01-24/36/ita@/main.xml"/>
+                    <FRBRuri value="/akn/it/act/decretolegislativo/2006-01-24/36/ita@/main.xml"/>
+                    <FRBRdate date="2015-11-16" name=""/>
+                    <FRBRauthor href="#limeEditor" as="#limeEditor"/>
+                    <FRBRformat value=""/>
+                </FRBRManifestation>
+            </identification>
+            <publication name="" date="2006-02-14" number="" showAs=" (GU n.37 del 14-2-2006 ) "/>
+            <lifecycle source="#palmirani">
+                <eventRef eId="evento_1" date="2006-03-01" source="#palmirani" type="generation"/>
+            </lifecycle>
+            <references source="">
+                <TLCPerson eId="limeEditor" href="/lime.cirsfid.unibo.it" showAs="LIME editor"/>
+                <TLCLocation showAs="Roma " href="/ontology/location/it/roma" eId="roma"/>
+                <TLCRole showAs="Presidente del Consiglio dei Ministri " href="/ontology/roles/it/presidentedelconsigliodeiministri" eId="presidentedelconsigliodeiministri"/>
+                <TLCRole showAs="Ministro per le politiche comunitarie " href="/ontology/roles/it/ministroperlepolitichecomunitarie" eId="ministroperlepolitichecomunitarie"/>
+                <TLCRole showAs="Ministro per l'innovazione e le tecnologie " href="/ontology/roles/it/ministroperl'innovazioneeletecnologie" eId="ministroperl'innovazioneeletecnologie"/>
+                <TLCRole showAs="Ministro degli affari esteri " href="/ontology/roles/it/ministrodegliaffariesteri" eId="ministrodegliaffariesteri"/>
+                <TLCRole showAs="Ministro della giustizia " href="/ontology/roles/it/ministrodellagiustizia" eId="ministrodellagiustizia"/>
+                <TLCRole showAs="Ministro per la funzione pubblica " href="" eId="ministroperlafunzionepubblica"/>
+                <TLCPerson showAs="Berlusconi " href="/ontology/persons/it/berlusconi" eId="berlusconi"/>
+                <TLCPerson showAs="La Malfa " href="/ontology/persons/it/lamalfa" eId="lamalfa"/>
+                <TLCPerson showAs="Fini " href="/ontology/persons/it/fini" eId="fini"/>
+                <TLCPerson showAs="Castelli " href="" eId="castelli"/>
+                <TLCRole eId="guardasigilli" href="" showAs="Guardasigilli"/>
+                <TLCPerson eId="baccini" href="" showAs="Baccini "/>
+                <TLCPerson eId="tremonti" href="" showAs="Tremonti"/>
+                <TLCRole eId="ministrodelleconomiaedellefinanze" href="" showAs="Ministro del-l'economia e delle finanze"/>
+                <TLCPerson eId="stanca" href="" showAs="Stanca"/>
+            </references>
+        </meta>
+        <preface>
+            <p>
+                <docType>DECRETO LEGISLATIVO</docType>
+                <docDate date="2006-01-24">24 gennaio 2006</docDate>, 
+                <docNumber>n. 36</docNumber>
+                <docTitle>
+                    <eol/>Attuazione della 
+                    <ref href="/akn/it/act/2015-11-16/ita@">direttiva 2003/98/CE</ref> relativa al riutilizzo di documenti nel settore pubblico.
+                </docTitle>
+                <eol/> Vigente al: 
+                <date date="2006-03-24">24-3-2006</date>
+                <eol/>
+            </p>
+        </preface>
+        <preamble>
+            <p> IL 
+                <docAuthority>PRESIDENTE DELLA REPUBBLICA</docAuthority>
+                <eol/> Visti gli 
+                <ref href="/akn/it/act/2015-11-16/ita@#articoli 76 e 87">articoli 76 e 87 della Costituzione</ref>;
+                <eol/> Visto l'
+                <ref href="/akn/it/act/2015-11-16/ita@#articolo 117">articolo 117 della Costituzione</ref>;
+                <eol/> Vista la 
+                <ref href="/akn/it/act/2005-04-18/62/ita@">legge 18 aprile 2005, n. 62</ref>, ed in particolare l'
+                <ref href="#articolo 1">articolo 1</ref> e l'allegato A;
+                <eol/> Vista la 
+                <ref href="/akn/it/act/2015-11-16/ita@">direttiva 2003/98/CE</ref> del 
+                <docAuthority>Parlamento europeo</docAuthority> e del Consiglio del 17 novembre 2003, relativa al riutilizzo dell'informazione del settore pubblico;
+                <eol/> Vista la 
+                <ref href="/akn/it/act/1941-04-22/633/ita@">legge 22 aprile 1941, n. 633</ref>;
+                <eol/> Vista la 
+                <ref href="/akn/it/act/1977-10-24/801/ita@">legge 24 ottobre 1977, n. 801</ref>;
+                <eol/> Vista la 
+                <ref href="/akn/it/act/1990-08-07/241/ita@">legge 7 agosto 1990, n. 241</ref>;
+                <eol/> Visto il 
+                <ref href="/akn/it/act/1995-03-17/157/ita@">decreto legislativo 17 marzo 1995, n. 157</ref>;
+                <eol/> Vista la 
+                <ref href="/akn/it/act/2000-06-07/150/ita@">legge 7 giugno 2000, n. 150</ref>;
+                <eol/> Visto il 
+                <ref href="/akn/it/act/2000-08-18/267/ita@">decreto legislativo 18 agosto 2000, n. 267</ref>;
+                <eol/> Visto il 
+                <ref href="/akn/it/act/2003-06-30/196/ita@">decreto legislativo 30 giugno 2003, n. 196</ref>;
+                <eol/> Visto il 
+                <ref href="/akn/it/act/2003-11-11/333/ita@">decreto legislativo 11 novembre 2003, n. 333</ref>;
+                <eol/> Vista la 
+                <ref href="/akn/it/act/2004-12-30/311/ita@">legge 30 dicembre 2004, n. 311</ref>;
+                <eol/> Visto il 
+                <ref href="/akn/it/act/2005-03-07/82/ita@">decreto legislativo 7 marzo 2005, n. 82</ref>;
+                <eol/> Acquisito il parere del 
+                <docAuthority>Garante per la protezione dei dati personali</docAuthority>;
+                <eol/> Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 ottobre 2005;
+                <eol/> Sulla proposta del 
+                <docAuthority>Ministro per le politiche comunitarie</docAuthority> e del 
+                <docAuthority>Ministro per l'innovazione e le tecnologie</docAuthority>, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze e per la funzione pubblica;
+                <eol/>
+            </p>
+            <formula name="formulaIniziale" eId="formula_1">
+                <p>E m a n a
+                    <eol/> il seguente decreto legislativo:
+                </p>
+            </formula>
+        </preamble>
+        <body>
+            <article eId="art_1">
+                <num>Art. 1.</num>
+                <heading eId="art_1__heading">
+                    <eol/> Oggetto ed ambito di applicazione
+                </heading>
+                <paragraph eId="art_1__para_1">
+                    <num>1.</num>
+                    <content eId="art_1__para_1__content">
+                        <p> Il presente decreto legislativo disciplina le modalita' di riutilizzo dei documenti contenenti dati pubblici nella disponibilita' delle pubbliche amministrazioni e degli organismi di diritto pubblico.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_2">
+                    <num>2.</num>
+                    <content eId="art_1__para_2__content">
+                        <p> Le pubbliche amministrazioni e gli organismi di diritto pubblico non hanno l'obbligo di consentire il riutilizzo dei documenti di cui al 
+                            <ref href="#comma 1">comma 1</ref>. La decisione di consentire o meno tale riutilizzo spetta all'amministrazione o all'organismo interessato, salvo diversa previsione di legge o di regolamento.
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_3">
+                    <num>3.</num>
+                    <content eId="art_1__para_3__content">
+                        <p> Il presente decreto si applica altresi' quando i documenti di cui al 
+                            <ref href="#comma 1">comma 1</ref> sono gia' stati diffusi per il loro riutilizzo dai soggetti ivi indicati. E' in ogni caso assicurata la parita' di trattamento tra tutti i riutillizzatori, salvo quanto previsto dall'
+                            <ref href="#articolo 11">articolo 11</ref>.
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_1__para_4">
+                    <num>4.</num>
+                    <content eId="art_1__para_4__content">
+                        <p> Nell'esercizio del potere di cui al 
+                            <ref href="#comma 2">comma 2</ref> le pubbliche amministrazioni o gli organismi di diritto pubblico perseguono la finalita' di rendere riutilizzabile il maggior numero di informazioni, in base a modalita' che assicurino condizioni eque, adeguate e non discriminatorie.
+                        </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_2">
+                <num>Art. 2.</num>
+                <heading eId="art_2__heading">
+                    <eol/> Definizioni
+                </heading>
+                <paragraph eId="art_2__para_1">
+                    <num>1.</num>
+                    <content eId="art_2__para_1__content">
+                        <blockList eId="art_2__para_1__content__list_1">
+                            <listIntroduction> Ai fini del presente decreto si intende per:</listIntroduction>
+                            <item eId="art_2__para_1__content__list_1__item_a">
+                                <num>a)</num>
+                                <p> pubbliche amministrazioni: le amministrazioni dello Stato, le regioni, le province autonome di Trento e di Bolzano, gli enti pubblici territoriali e le loro unioni, consorzi o associazioni e gli altri enti pubblici non economici;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_b">
+                                <num>b)</num>
+                                <p> organismi di diritto pubblico: gli organismi, dotati di personalita' giuridica, istituiti per soddisfare specifiche finalita' d'interesse generale non aventi carattere industriale o commerciale, la cui attivita' e' finanziata in modo maggioritario dallo Stato, dalle regioni, dagli enti locali, da altri enti pubblici o organismi di diritto pubblico, o la cui gestione e' sottoposta al loro controllo o i cui organi d'amministrazione, di direzione o di vigilanza sono costituiti, almeno per la meta', da componenti designati dai medesimi soggetti pubblici. Sono escluse le imprese pubbliche, come definite all'
+                                    <ref href="/akn/it/act/2003-11-11/333/ita@#articolo 2, comma 1, lettera b)">articolo 2, comma 1, lettera b), del decreto legislativo 11 novembre 2003, n. 333</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_c">
+                                <num>c)</num>
+                                <p> documento: la rappresentazione di atti, fatti e dati a prescindere dal supporto nella disponibilita' della pubblica amministrazione o dell'organismo di diritto pubblico. La definizione di documento non comprende i programmi informatici;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_d">
+                                <num>d)</num>
+                                <p> dato pubblico: il dato conoscibile da chiunque;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_e">
+                                <num>e)</num>
+                                <p> riutilizzo: l'uso del dato di cui e' titolare una pubblica amministrazione o un organismo di diritto pubblico, da parte di persone fisiche o giuridiche, a fini commerciali o non commerciali diversi dallo scopo iniziale per il quale il documento che lo rappresenta e' stato prodotto nell'ambito dei fini istituzionali;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_f">
+                                <num>f)</num>
+                                <p> scambio di documenti: la cessione di documenti finalizzata esclusivamente all'adempimento di compiti istituzionali fra i soggetti di cui alle 
+                                    <ref href="#lettere a) e b)">lettere a) e b)</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_g">
+                                <num>g)</num>
+                                <p> dati personali: i dati definiti tali dal 
+                                    <ref href="/akn/it/act/2003-06-30/196/ita@">decreto legislativo 30 giugno 2003, n. 196</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_h">
+                                <num>h)</num>
+                                <p> licenza standard per il riutilizzo: il contratto, o altro strumento negoziale, redatto ove possibile in forma elettronica, nel quale sono definite le modalita' di riutilizzo dei documenti delle pubbliche amministrazioni o degli organismi di diritto pubblico;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_2__para_1__content__list_1__item_i">
+                                <num>i)</num>
+                                <p> titolare del dato: la pubblica amministrazione o l'organismo di diritto pubblico che ha originariamente formato per uso proprio o commissionato ad altro soggetto pubblico o privato il documento che rappresenta il dato.
+                                    <eol/>
+                                </p>
+                            </item>
+                        </blockList>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_3">
+                <num>Art. 3.</num>
+                <heading eId="art_3__heading">
+                    <eol/> Documenti esclusi dall'applicazione del decreto
+                </heading>
+                <paragraph eId="art_3__para_1">
+                    <num>1.</num>
+                    <content eId="art_3__para_1__content">
+                        <blockList eId="art_3__para_1__content__list_1">
+                            <listIntroduction> Sono esclusi dall'applicazione del presente decreto i seguenti documenti:</listIntroduction>
+                            <item eId="art_3__para_1__content__list_1__item_a">
+                                <num>a)</num>
+                                <p> quelli detenuti per finalita' che esulano dall'ambito dei compiti istituzionali della pubblica amministrazione o dell'organismo di diritto pubblico;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_3__para_1__content__list_1__item_b">
+                                <num>b)</num>
+                                <p> quelli nella disponibilita' delle emittenti di servizio pubblico e delle societa' da esse controllate e da altri organismi o loro societa' controllate per l'adempimento di un compito di radiodiffusione di servizio pubblico;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_3__para_1__content__list_1__item_c">
+                                <num>c)</num>
+                                <p> quelli nella disponibilita' di istituti d'istruzione e di ricerca quali scuole, universita', archivi, biblioteche ed enti di ricerca, comprese le organizzazioni preposte al trasferimento dei risultati della ricerca;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_3__para_1__content__list_1__item_d">
+                                <num>d)</num>
+                                <p> quelli nella disponibilita' di enti culturali quali musei, biblioteche, archivi, orchestre, teatri lirici, compagnie di ballo e teatri;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_3__para_1__content__list_1__item_e">
+                                <num>e)</num>
+                                <p> quelli comunque nella disponibilita' degli organismi di cui agli 
+                                    <ref href="/akn/it/act/1977-10-24/801/ita@#articoli 3, 4, 5 e 6">articoli 3, 4, 5 e 6 della legge 24 ottobre 1977, n. 801</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_3__para_1__content__list_1__item_f">
+                                <num>f)</num>
+                                <p> quelli relativi ai dati di cui alla borsa continua nazionale del lavoro, all'anagrafe del lavoratore ed i dati assunti in materia di certificazione dei contratti di lavoro, disciplinati dal 
+                                    <ref href="/akn/it/act/2003-09-10/276/ita@">decreto legislativo 10 settembre 2003, n. 276</ref>, e dai rispettivi provvedimenti attuativi;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_3__para_1__content__list_1__item_g">
+                                <num>g)</num>
+                                <p> quelli esclusi dall'accesso ai sensi dell'
+                                    <ref href="/akn/it/act/1990-08-07/241/ita@#articolo 24">articolo 24 della legge 7 agosto 1990, n. 241</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_3__para_1__content__list_1__item_h">
+                                <num>h)</num>
+                                <p> quelli sui cui terzi detengono diritti di proprieta' intellettuale ai sensi della 
+                                    <ref href="/akn/it/act/1941-04-22/633/ita@">legge 22 aprile 1941, n. 633</ref>, ovvero diritti di proprieta' industriale ai sensi del 
+                                    <ref href="/akn/it/act/2005-02-10/30./ita@">decreto legislativo 10 febbraio 2005, n. 30.</ref>
+                                    <eol/>
+                                </p>
+                            </item>
+                        </blockList>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_4">
+                <num>Art. 4.</num>
+                <heading eId="art_4__heading">
+                    <eol/> Norma di salvaguardia
+                </heading>
+                <paragraph eId="art_4__para_1">
+                    <num>1.</num>
+                    <content eId="art_4__para_1__content">
+                        <blockList eId="art_4__para_1__content__list_1">
+                            <listIntroduction> Sono fatte salve:</listIntroduction>
+                            <item eId="art_4__para_1__content__list_1__item_a">
+                                <num>a)</num>
+                                <p> la disciplina sulla protezione dei dati personali di cui al 
+                                    <ref href="/akn/it/act/2003-06-30/196/ita@">decreto legislativo 30 giugno 2003, n. 196</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_4__para_1__content__list_1__item_b">
+                                <num>b)</num>
+                                <p> la disciplina sulla protezione del diritto d'autore di cui alla 
+                                    <ref href="/akn/it/act/1941-04-22/633./ita@">legge 22 aprile 1941, n. 633.</ref> Gli obblighi previsti dal presente decreto legislativo si applicano compatibilmente con le disposizioni di accordi internazionali sulla protezione dei diritti di proprieta' intellettuale, in particolare la Convenzione di Berna per la protezione delle opere letterarie ed artistiche, del 1886, ratificata con 
+                                    <ref href="/akn/it/act/1978-06-20/399/ita@">legge 20 giugno 1978, n. 399</ref>, e l'Accordo TRIPS sugli aspetti dei diritti di proprieta' intellettuale attinenti al commercio, del 1994, ratificato con 
+                                    <ref href="/akn/it/act/1994-12-29/747/ita@">legge 29 dicembre 1994, n. 747</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_4__para_1__content__list_1__item_c">
+                                <num>c)</num>
+                                <p> la disciplina in materia di accesso ai documenti amministrativi, di cui al Capo V della 
+                                    <ref href="/akn/it/act/1990-08-07/241/ita@">legge 7 agosto 1990, n. 241</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_4__para_1__content__list_1__item_d">
+                                <num>d)</num>
+                                <p> le disposizioni in materia di riutilizzazione commerciale dei documenti, dei dati e delle informazioni catastali ed ipotecarie, anche con riferimento all'
+                                    <ref href="#articolo 1">articolo 1</ref>, commi da 367 a 373, della 
+                                    <ref href="/akn/it/act/2004-12-30/311/ita@">legge 30 dicembre 2004, n. 311</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_4__para_1__content__list_1__item_e">
+                                <num>e)</num>
+                                <p> le disposizioni in materia di proprieta' industriale di cui al 
+                                    <ref href="/akn/it/act/2005-02-10/30/ita@">decreto legislativo 10 febbraio 2005, n. 30</ref>;
+                                    <eol/>
+                                </p>
+                            </item>
+                            <item eId="art_4__para_1__content__list_1__item_f">
+                                <num>f)</num>
+                                <p> la disciplina sul Sistema statistico nazionale di cui al 
+                                    <ref href="/akn/it/act/1989-09-06/322/ita@">decreto legislativo 6 settembre 1989, n. 322</ref>, nonche' la disposizione sull'accesso ai dati individuali di cui all'
+                                    <ref href="/akn/it/act/1996-12-31/681./ita@#articolo 8">articolo 8 della legge 31 dicembre 1996, n. 681.</ref>
+                                    <eol/>
+                                </p>
+                            </item>
+                        </blockList>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_5">
+                <num>Art. 5.</num>
+                <heading eId="art_5__heading">
+                    <eol/> Richiesta di riutilizzo di documenti
+                </heading>
+                <paragraph eId="art_5__para_1">
+                    <num>1.</num>
+                    <content eId="art_5__para_1__content">
+                        <p> Il titolare del dato predispone le licenze standard per il riutilizzo e le rende disponibili, ove possibile in forma elettronica, sui propri siti istituzionali.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_5__para_2">
+                    <num>2.</num>
+                    <content eId="art_5__para_2__content">
+                        <p> I soggetti che intendono riutilizzare dati delle pubbliche amministrazioni o degli organismi di diritto pubblico presentano apposita richiesta secondo le modalita' stabilite dal titolare del dato con proprio provvedimento.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_5__para_3">
+                    <num>3.</num>
+                    <content eId="art_5__para_3__content">
+                        <p> Il titolare del dato esamina le richieste e rende disponibili i documenti al richiedente, ove possibile in forma elettronica, entro il termine di trenta giorni, prorogabile di ulteriori trenta giorni nel caso in cui le richieste siano numerose o complesse. Il titolare del dato non ha l'obbligo di produrre o di continuare a produrre documenti al solo fine di permetterne il riutilizzo da parte di un soggetto privato o pubblico.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_5__para_4">
+                    <num>4.</num>
+                    <content eId="art_5__para_4__content">
+                        <p> I poteri e le facolta' connessi al riutilizzo spettano unicamente al titolare del dato.</p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_6">
+                <num>Art. 6.</num>
+                <heading eId="art_6__heading">
+                    <eol/> Formati disponibili
+                </heading>
+                <paragraph eId="art_6__para_1">
+                    <num>1.</num>
+                    <content eId="art_6__para_1__content">
+                        <p> Il titolare del dato mette a disposizione i documenti richiesti nella forma in cui sono stati prodotti.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_6__para_2">
+                    <num>2.</num>
+                    <content eId="art_6__para_2__content">
+                        <p> Il titolare del dato fornisce i documenti, ove possibile in formato elettronico, nel rispetto delle regole tecniche di cui all'
+                            <ref href="#articolo 11">articolo 11</ref>, e non ha l'obbligo di adeguare i documenti o di crearne per soddisfare la richiesta, ne' l'obbligo di fornire estratti di documenti se cio' comporta attivita' eccedenti la semplice manipolazione.
+                        </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_7">
+                <num>Art. 7.</num>
+                <heading eId="art_7__heading">
+                    <eol/> Tariffe 
+                </heading>
+                <paragraph eId="art_7__para_1">
+                    <num>1.</num>
+                    <content eId="art_7__para_1__content">
+                        <p> Con decreti dei Ministri competenti, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro novanta giorni dalla data di entrata in vigore del presente decreto sono determinate, sulla base dei criteri di cui ai 
+                            <ref href="#commi 2 e 3">commi 2 e 3</ref>, le tariffe e le relative modalita' di versamento da corrispondere a fronte delle attivita' di cui agli 
+                            <ref href="#articoli 5, 6 e 9">articoli 5, 6 e 9</ref>. 
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_7__para_2">
+                    <num>2.</num>
+                    <content eId="art_7__para_2__content">
+                        <p> L'importo delle tariffe di cui al 
+                            <ref href="#comma 1">comma 1</ref>, individuato sulla base dei costi effettivi sostenuti dalle Amministrazioni e aggiornato ogni due anni, comprende i costi di raccolta, di produzione, di riproduzione e diffusione maggiorati, nel caso di riutilizzo per fini commerciali, di un utile da determinare, con i decreti di cui al 
+                            <ref href="#comma 1">comma 1</ref>, sulle spese per investimenti sostenute dalle Amministrazioni nel triennio precedente. 
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_7__para_3">
+                    <num>3.</num>
+                    <content eId="art_7__para_3__content">
+                        <p> Nei casi di riutilizzo a fini non commerciali e' prevista una tariffa differenziata da determinarsi, con le modalita' di cui ai 
+                            <ref href="#commi 1 e 2">commi 1 e 2</ref>, secondo il criterio della copertura dei soli costi effettivi sostenuti dalle Amministrazioni interessate. 
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_7__para_4">
+                    <num>4.</num>
+                    <content eId="art_7__para_4__content">
+                        <p> I decreti di cui al 
+                            <ref href="#comma 1">comma 1</ref> sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana e resi altresi' pubblici, a cura dell'Amministrazione competente, ove possibile secondo modalita' informatiche, sul proprio sito istituzionale. 
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_7__para_5">
+                    <num>5.</num>
+                    <content eId="art_7__para_5__content">
+                        <p> Gli introiti delle tariffe di cui al 
+                            <ref href="#comma 1">comma 1</ref>, sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi dell'
+                            <ref href="/akn/it/act/2005-04-18/62/ita@#articolo 4, comma 2">articolo 4, comma 2, della legge 18 aprile 2005, n. 62</ref>, allo stato di previsione delle Amministrazioni interessate. 
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_7__para_6">
+                    <num>6.</num>
+                    <content eId="art_7__para_6__content">
+                        <p> Gli enti territoriali e gli altri enti ed organismi pubblici determinano, rispettivamente con proprie disposizioni o propri atti deliberativi gli importi delle tariffe e le relative modalita' di versamento, sulla base dei criteri indicati ai 
+                            <ref href="#commi 2 e 3">commi 2 e 3</ref>. 
+                        </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_8">
+                <num>Art. 8.</num>
+                <heading eId="art_8__heading">
+                    <eol/> Contenuti delle licenze standard per il riutilizzo
+                </heading>
+                <paragraph eId="art_8__para_1">
+                    <num>1.</num>
+                    <content eId="art_8__para_1__content">
+                        <p> Gli schemi di licenze standard per il riutilizzo sono predisposti dal titolare del dato, ove possibile in formato elettronico e resi disponibili sul proprio sito istituzionale. Gli schemi possono essere compilati elettronicamente e contengono eventuali limitazioni o condizioni all'utilizzo dei documenti, in considerazione delle loro peculiari caratteristiche, nonche' l'indicazione dei mezzi di impugnazione, secondo criteri individuati dal titolare medesimo con proprio provvedimento.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_8__para_2">
+                    <num>2.</num>
+                    <content eId="art_8__para_2__content">
+                        <p> Le condizioni e le limitazioni poste dal titolare del dato negli schemi di licenze standard sono individuate per categorie di documenti secondo criteri di proporzionalita' e nel rispetto della disciplina sulla protezione dei dati personali e non possono costituire ostacolo alla concorrenza.</p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_9">
+                <num>Art. 9.</num>
+                <heading eId="art_9__heading">
+                    <eol/> Strumenti di ricerca di documenti disponibili
+                </heading>
+                <paragraph eId="art_9__para_1">
+                    <num>1.</num>
+                    <content eId="art_9__para_1__content">
+                        <p> Le pubbliche Amministrazioni e gli organismi di diritto pubblico promuovono forme di adeguata informazione e comunicazione istituzionale relativamente ai documenti oggetto di riutilizzo, anche attraverso i propri siti istituzionali e prevedono modalita' pratiche per facilitare la ricerca di documenti disponibili per il riutilizzo quali elenchi, portali e repertori collegati ad elenchi decentralizzati.</p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_10">
+                <num>Art. 10.</num>
+                <heading eId="art_10__heading">
+                    <eol/> Riutilizzo di documenti a fini commerciali da parte
+                </heading>
+                <subheading>
+                    <eol/> di pubbliche amministrazioni
+                    <eol/>
+                </subheading>
+                <paragraph eId="art_10__para_1">
+                    <num>1.</num>
+                    <content eId="art_10__para_1__content">
+                        <p> Lo scambio di documenti, come definito dalla 
+                            <ref href="#lettera f)">lettera f)</ref> del 
+                            <ref href="#comma 1">comma 1</ref> dell'
+                            <ref href="#articolo 2">articolo 2</ref>, non costituisce riutilizzo.
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_10__para_2">
+                    <num>2.</num>
+                    <content eId="art_10__para_2__content">
+                        <p> Nel caso in cui una pubblica amministrazione riutilizza per fini commerciali documenti di altra pubblica amministrazione si applicano le modalita' di riutilizzo anche economico stabilite nel presente decreto.</p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_11">
+                <num>Art. 11.</num>
+                <heading eId="art_11__heading">
+                    <eol/> Divieto di accordi di esclusiva
+                </heading>
+                <paragraph eId="art_11__para_1">
+                    <num>1.</num>
+                    <content eId="art_11__para_1__content">
+                        <p> I documenti delle pubbliche amministrazioni e degli organismi di diritto pubblico possono essere riutilizzati da tutti gli operatori potenziali sul mercato, anche qualora uno o piu' soggetti stiano gia' procedendo allo sfruttamento di prodotti a valore aggiunto basati su tali documenti. I contratti o gli altri accordi tra il titolare del dato in possesso dei documenti e terzi non stabiliscono diritti esclusivi, salvo che cio' non risulti necessario per l'erogazione di un servizio di interesse pubblico.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_11__para_2">
+                    <num>2.</num>
+                    <content eId="art_11__para_2__content">
+                        <p> La fondatezza del motivo per l'attribuzione del diritto di esclusiva e' soggetta a riesame periodico da parte dell'Amministrazione interessata, con cadenza almeno triennale. Gli accordi di esclusiva conclusi dopo la data di entrata in vigore del presente decreto, sono resi pubblici dal titolare del dato, ove possibile in forma elettronica, sui propri siti istituzionali.</p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_11__para_3">
+                    <num>3.</num>
+                    <content eId="art_11__para_3__content">
+                        <p> Gli accordi di esclusiva esistenti, che non rientrano nell'eccezione di cui al 
+                            <ref href="#comma 2">comma 2</ref>, terminano alla scadenza negli stessi stabilita e comunque non oltre il 31 dicembre 2008.
+                        </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_12">
+                <num>Art. 12.</num>
+                <heading eId="art_12__heading">
+                    <eol/> Regole tecniche
+                </heading>
+                <paragraph eId="art_12__para_1">
+                    <num>1.</num>
+                    <content eId="art_12__para_1__content">
+                        <p> La fornitura di documenti ai sensi dell'
+                            <ref href="#articolo 5, comma 3">articolo 5, comma 3</ref>, avviene nel rispetto delle regole tecniche sul sistema pubblico di connettivita' di cui all'
+                            <ref href="/akn/it/act/2005-02-28/42/ita@#articolo 16">articolo 16 del decreto legislativo 28 febbraio 2005, n. 42</ref>, delle regole di cui al disciplinare tecnico previsto dall'allegato B al 
+                            <ref href="/akn/it/act/2003-06-30/196/ita@">decreto legislativo 30 giugno 2003, n. 196</ref>, e con quanto previsto dall'
+                            <ref href="/akn/it/act/2005-03-07/82./ita@#articolo 70">articolo 70 del decreto legislativo 7 marzo 2005, n. 82.</ref>
+                        </p>
+                    </content>
+                </paragraph>
+                <paragraph eId="art_12__para_2">
+                    <num>2.</num>
+                    <content eId="art_12__para_2__content">
+                        <p> Eventuali ulteriori regole tecniche sono adottate, previa notifica alla Commissione europea ai sensi del 
+                            <ref href="/akn/it/act/2000-11-23/427/ita@">decreto legislativo 23 novembre 2000, n. 427</ref>, con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato per l'innovazione e le tecnologie, di concerto con il Ministro per la funzione pubblica.
+                        </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_13">
+                <num>Art. 13.</num>
+                <heading eId="art_13__heading">
+                    <eol/> Disposizione finanziaria
+                </heading>
+                <paragraph eId="art_13__para_1">
+                    <num>1.</num>
+                    <content eId="art_13__para_1__content">
+                        <p> Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri, ne' minori entrate per la finanza pubblica.</p>
+                    </content>
+                </paragraph>
+            </article>
+        </body>
+        <conclusions eId="conclusions">
+            <p> Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+                <eol/> Dato a 
+                <location refersTo="#roma">Roma</location>, addi' 
+                <date date="2006-01-24">24 gennaio 2006</date>
+                <eol/> CIAMPI
+                <eol/>
+                <signature>
+                    <person as="#presidentedelconsigliodeiministri" refersTo="#berlusconi">Berlusconi</person>, 
+                    <role refersTo="#presidentedelconsigliodeiministri">Presidente del Consiglio dei Ministri</role>
+                </signature>
+                <eol/>
+                <signature>
+                    <person as="#ministroperlepolitichecomunitarie" refersTo="#lamalfa">La Malfa</person>, 
+                    <role refersTo="#ministroperlepolitichecomunitarie">Ministro per le politiche comunitarie</role>
+                </signature>
+                <eol/>
+                <signature>
+                    <person refersTo="#stanca">Stanca</person>, 
+                    <role refersTo="#ministroperl'innovazioneeletecnologie">Ministro per l'innovazione e le tecnologie </role>
+                </signature>
+                <eol/>
+                <signature>
+                    <person as="#ministrodegliaffariesteri" refersTo="#fini">Fini</person>, 
+                    <role refersTo="#ministrodegliaffariesteri">Ministro degli affari esteri</role>
+                </signature>
+                <eol/>
+                <signature>
+                    <person as="#ministrodellagiustizia" refersTo="#castelli">Castelli</person>, 
+                    <role refersTo="#ministrodellagiustizia">Ministro della giustizia</role>
+                </signature>
+                <eol/>
+                <signature>
+                    <person refersTo="#tremonti">Tremonti</person>, 
+                    <role refersTo="#ministrodelleconomiaedellefinanze">Ministro del-l'economia e delle finanze</role>
+                </signature>
+                <eol/>
+                <signature>
+                    <person refersTo="#baccini">Baccini </person>
+                    <role refersTo="#ministroperlafunzionepubblica">Ministro per la funzione pubblica</role>
+                </signature>
+                <eol/>
+                <signature>Visto, il 
+                    <role refersTo="#guardasigilli">Guardasigilli</role>: 
+                    <person refersTo="#castelli">Castelli</person>
+                </signature>
+                <eol/>
+            </p>
+        </conclusions>
+    </act>
+</akomaNtoso>

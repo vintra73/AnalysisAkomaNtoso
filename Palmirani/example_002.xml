@@ -1,7 +1,6 @@
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" 
     xmlns:cirsfid="http://sinatra.cirsfid.unibo.it/cassazione.xsd" 
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13 ./akomantoso30.xsd">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <doc name="codice">
         <meta>
             <identification source="#supremaCorteDiCassazione">
