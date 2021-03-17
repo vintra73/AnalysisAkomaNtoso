@@ -40,7 +40,7 @@ applicando le seguenti azioni:
 
 ## objects analyzed
 
-- [OBJ00] 010G0043_VIGENZA_20140821_!main.xml
+- [OBJ00] [010G0043_VIGENZA_20140821_!main.xml](https://raw.githubusercontent.com/vintra73/AnalysisAkomaNtoso/main/Analysis%20of%20IPZS%20examples/Normattiva/Acts%20with%20subsections/010G0043_VIGENZA_20140821_!main.xml) 
 
 ## analysis results
 
