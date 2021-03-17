@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:eli="http://data.europa.eu/eli/ontology#" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:gu="http://www.gazzettaufficiale.it/eli/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:na="http://www.normattiva.it/eli/" xmlns:nakn="http://normattiva.it/akn/vocabulary" xmlns:nrdfa="http://www.normattiva.it/rdfa/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfa="http://www.w3.org/1999/xhtml#">
+    <act name="monovigente">
+        <meta>
+            <identification source="">
+                <FRBRWork>
+                    <FRBRthis value="/akn/it/act/decreto-legge/stato/2015-11-22/183/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto-legge/stato/2015-11-22/183"/>
+                    <FRBRalias name="urn:nir" value="urn:nir:stato:decreto.legge:2015-11-22;183"/>
+                    <FRBRalias name="eli" value="eli/id/2015/11/23/15G00200/CONSOLIDATED/20160123"/>
+                    <FRBRdate date="2015-11-22" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123" aknrelname="eli/id/2015/11/23/15G00200/CONSOLIDATED/20160123">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalResource"/>
+                            <nrdfa:span content="Disposizioni urgenti per il settore creditizio. (15G00200)  " lang="it" property="eli:title" xml:lang="it"/>
+                            <nrdfa:span content="http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}" property="eli:uri_schema"/>
+                            <nrdfa:span content="15G00200" property="eli:id_local"/>
+                            <nrdfa:span property="eli:type_document" resource="gu:tables/resource-type#DECRETO-LEGGE"/>
+                            <nrdfa:span content="2015-11-22" datatype="xsd:date" property="eli:date_document"/>
+                            <nrdfa:span property="eli:version" resource="gu:tables/versions#ORIGINAL"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRcountry value="it"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/it/act/decreto-legge/stato/2015-11-22/183/ita@2016-01-23/!main"/>
+                    <FRBRuri value="/akn/it/act/decreto-legge/stato/2015-11-22/183/ita@2016-01-23"/>
+                    <FRBRdate date="2016-01-23" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123/ita">
+                            <nrdfa:span property="rdf:type" resource="eli:LegalExpression"/>
+                            <nrdfa:span property="eli:realizes" resource="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123"/>
+                            <nrdfa:span property="eli:is_embodied_by" resource="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123/ita/akn"/>
+                            <nrdfa:span property="eli:language" resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                            <nrdfa:span property="eli:publisher_agent" resource="http://www.ipzs.it"/>
+                        </nrdfa:eli>
+                    </preservation>
+                    <FRBRlanguage language="ita"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/it/act/decreto-legge/stato/2015-11-22/183/ita@2016-01-23/!main.xml"/>
+                    <FRBRuri value="/akn/it/act/decreto-legge/stato/2015-11-22/183/ita@2016-01-23.xml"/>
+                    <FRBRdate date="2015-11-22" name=""/>
+                    <FRBRauthor as="#author" href=""/>
+                    <preservation>
+                        <nrdfa:eli about="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123/ita/akn">
+                            <nrdfa:span property="rdf:type" resource="eli:Format"/>
+                            <nrdfa:span property="eli:format" resource="http://www.iana.org/assignments/media-types/xml"/>
+                        </nrdfa:eli>
+                    </preservation>
+                </FRBRManifestation>
+            </identification>
+            <publication date="2015-11-23" name="" number="273" showAs=""/>
+            <lifecycle source="">
+                <eventRef date="2015-11-23" eId="eventRef_0" source="ro1"/>
+                <eventRef date="2015-12-30" eId="eventRef_1" source="rp1"/>
+                <eventRef date="2016-01-23" eId="eventRef_2" source="rp2"/>
+            </lifecycle>
+            <analysis source=""/>
+            <references source="">
+                <original eId="ro1" href="/akn/it/act/DECRETO-LEGGE/stato/2015-11-22/183/!main" showAs=""/>
+                <passiveRef eId="rp1" href="/akn/it/act/LEGGE/stato/2015-12-28/208/!main" showAs=""/>
+                <passiveRef eId="rp2" href="" showAs=""/>
+            </references>
+            <proprietary source="">
+                <rdf:RDF>
+                    <rdf:Description rdf:about="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123">
+                        <rdf:type rdf:resource="eli:LegalResource"/>
+                        <eli:title xml:lang="it">Disposizioni urgenti per il settore creditizio. (15G00200)  </eli:title>
+                        <eli:uri_schema>http://www.normattiva.it/eli/id/{yyyy}/{mm}/{dd}/{codiceRedazionale}/{tipoVersione}</eli:uri_schema>
+                        <eli:id_local>15G00200</eli:id_local>
+                        <eli:type_document rdf:resource="gu:tables/resource-type#DECRETO-LEGGE"/>
+                        <eli:date_document rdf:datatype="xsd:date">2015-11-22</eli:date_document>
+                        <eli:version rdf:resource="gu:tables/versions#ORIGINAL"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123/ita">
+                        <rdf:type rdf:resource="eli:LegalExpression"/>
+                        <eli:realizes rdf:resource="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123"/>
+                        <eli:is_embodied_by rdf:resource="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123/ita/akn"/>
+                        <eli:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+                        <eli:publisher_agent rdf:resource="http://www.ipzs.it"/>
+                    </rdf:Description>
+                    <rdf:Description rdf:about="na:id/2015/11/23/15G00200/CONSOLIDATED/20160123/ita/akn">
+                        <rdf:type rdf:resource="eli:Format"/>
+                        <eli:format rdf:resource="http://www.iana.org/assignments/media-types/xml"/>
+                    </rdf:Description>
+                </rdf:RDF>
+            </proprietary>
+        </meta>
+        <preface>
+            <p>
+                <docType>DECRETO-LEGGE</docType>
+                <docDate date="2015-11-22">22 novembre 2015</docDate>
+                <docNumber>183</docNumber>
+                <docTitle>Disposizioni urgenti per il settore creditizio. (15G00200) 
+</docTitle>
+            </p>
+            <p>
+                <authorialNote eId="atn1" placement="bottom">
+                    <p>Entrata in vigore del provvedimento: 23/11/2015.
+
+Decreto-Legge decaduto per mancata conversione.</p>
+                </authorialNote>
+            </p>
+        </preface>
+        <preamble>
+            <formula name="formulaInizialePreambolo">
+                <p/>
+            </formula>
+            <formula name="formulaFinalePreambolo">
+                <p> </p>
+            </formula>
+        </preamble>
+        <body>
+            <article eId="art_1">
+                <num>Art. 1.</num>
+                <heading>Costituzione di enti-ponte ai sensi dell'articolo 42 del decreto legislativo 16 novembre 2015, n. 180</heading>
+                <paragraph>
+                    <content>
+                        <p> DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA <ref eId="content__ref_1" href="/akn/it/act/legge/stato/2015-12-28/208/!main">L. 28 DICEMBRE 2015, N. 208</ref> </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_2">
+                <num>Art. 2.</num>
+                <heading>Risorse da versare al Fondo nazionale di risoluzione dopo l'entrata in funzione del Meccanismo di risoluzione unico</heading>
+                <paragraph>
+                    <content>
+                        <p> DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA <ref eId="content__ref_2" href="/akn/it/act/legge/stato/2015-12-28/208/!main">L. 28 DICEMBRE 2015, N. 208</ref> </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_3">
+                <num>Art. 3.</num>
+                <heading>Disposizioni fiscali</heading>
+                <paragraph>
+                    <content>
+                        <p> DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA <ref eId="content__ref_3" href="/akn/it/act/legge/stato/2015-12-28/208/!main">L. 28 DICEMBRE 2015, N. 208</ref> </p>
+                    </content>
+                </paragraph>
+            </article>
+            <article eId="art_4">
+                <num>Art. 4.</num>
+                <heading>Entrata in vigore</heading>
+                <paragraph>
+                    <content>
+                        <p> DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA <ref eId="content__ref_4" href="/akn/it/act/legge/stato/2015-12-28/208/!main">L. 28 DICEMBRE 2015, N. 208</ref> </p>
+                    </content>
+                </paragraph>
+            </article>
+        </body>
+    </act>
+</akomaNtoso>
